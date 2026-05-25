@@ -26,6 +26,11 @@ Fuera del testing y el código, canalizo mi creatividad y mi atención al detall
 * **Tecnologías:** Postman, peticiones HTTP (POST, GET), JSON, Jira.
 * **Resultados:** Prevención del procesamiento de solicitudes mal formadas, asegurando un entorno de *backend* estable y documentando vulnerabilidades para el equipo de desarrollo.
 
+**Resultados destacados:**
+* 🧪 Diseñé y ejecuté **X casos de prueba** para validaciones de API.
+* 🔗 Probé **X endpoints** (POST, GET) estructurando payloads en JSON.
+* 🐛 Reporté **X vulnerabilidades** de backend documentadas en Jira.
+
 <img width="1573" height="868" alt="Captura de pantalla 2026-05-24 195843" src="https://github.com/user-attachments/assets/e696aa94-d820-490c-bbe8-4000b32cfc9d" />
 
 ### 2. Urban Routes - Pruebas E2E & Cross-Browser
@@ -33,6 +38,11 @@ Fuera del testing y el código, canalizo mi creatividad y mi atención al detall
 * **Qué hice:** Realicé validaciones de interfaz gráfica aplicando metodologías cross-browser. Diseñé listas de comprobación utilizando la técnica de Análisis de Valores Límite (BVA) para la pasarela de pagos y reporté errores lógicos formales.
 * **Tecnologías:** Pruebas E2E, Chrome/Firefox DevTools, Jira, BVA, Partición de Equivalencia.
 * **Resultados:** Detección de superposición de componentes en la UI y restricción efectiva de caracteres inválidos en formularios de pago, optimizando la experiencia del usuario final.
+
+**Resultados destacados:**
+* 🖥️ Validé la interfaz gráfica mediante metodologías **cross-browser**.
+* 📊 Diseñé matrices de pruebas aplicando **Análisis de Valores Límite (BVA)**.
+* 🎯 Detecté y reporté **X errores lógicos** prioritarios en Jira, optimizando la pasarela de pagos.
 
 <img width="974" height="765" alt="Captura de pantalla 2026-05-24 195123" src="https://github.com/user-attachments/assets/fdbb9d99-ac8e-497e-b3b8-9b94ff9a2adf" />
 
