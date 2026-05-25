@@ -43,7 +43,7 @@ Fuera del testing y el código, canalizo mi creatividad y mi atención al detall
 **Resultados destacados:**
 * 🖥️ Validé la interfaz gráfica mediante metodologías **cross-browser**.
 * 📊 Diseñé matrices de pruebas aplicando **Análisis de Valores Límite (BVA)**.
-* 🎯 Detecté y reporté **X errores lógicos** prioritarios en Jira, optimizando la pasarela de pagos.
+* 🎯 Detecté y reporté **12 errores lógicos** prioritarios en Jira, optimizando la pasarela de pagos.
 
 <img width="974" height="765" alt="Captura de pantalla 2026-05-24 195123" src="https://github.com/user-attachments/assets/fdbb9d99-ac8e-497e-b3b8-9b94ff9a2adf" />
 
