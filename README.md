@@ -6,7 +6,7 @@ Soy un QA Engineer enfocado en la automatización de pruebas y el aseguramiento 
 
 Fuera del testing y el código, canalizo mi creatividad y mi atención al detalle a través del modelado 3D de personajes. Hoy busco aplicar mi pensamiento analítico y mi capacidad algorítmica para garantizar entregas de software impecables.
 
-📫 Contáctame: jdevgam8@gmail.com | [Mi LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/miguel-tapia-gonzález-qa)
+📫 Contáctame: jdevgam8@gmail.com | [Mi LinkedIn](https://www.linkedin.com/in/miguel-tapia-gonzález-qa)
 
 ---
 
