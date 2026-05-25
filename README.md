@@ -4,7 +4,7 @@
 
 Soy un QA Engineer enfocado en la automatización de pruebas y el aseguramiento de calidad de software. Cuento con fuertes fundamentos en programación orientada a objetos (C#) y experiencia práctica en el diseño de escenarios E2E y validación de APIs REST. 
 
-Fuera del testing y el código, canalizo mi creatividad y mi atención al detalle a través del modelado 3D de personajes basados en mitología mesoamericana. Hoy busco aplicar mi pensamiento analítico y mi capacidad algorítmica para garantizar entregas de software impecables.
+Fuera del testing y el código, canalizo mi creatividad y mi atención al detalle a través del modelado 3D de personajes. Hoy busco aplicar mi pensamiento analítico y mi capacidad algorítmica para garantizar entregas de software impecables.
 
 📫 Contáctame: jdevgam8@gmail.com | [Mi LinkedIn](https://www.linkedin.com/in/AQUI_TU_LINK)
 
